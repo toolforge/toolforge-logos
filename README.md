@@ -3,20 +3,22 @@ Toolforge logos
 
 Proposed logo designs for Wikimedia's Toolforge platform as a service product.
 
-Round
------
+Hexagon versions intended to be compatible with the [Hexagon sticker
+standard]. These would not be used on-wiki, but would be printed as stickers
+because all the cool projects are using hex stickers for better tiling.
 
-<img src="png/toolforge-round-anvil.png" width="200">
-<img src="png/toolforge-round-cutout.png" width="200">
+Positive image of anvil
+-----------------------
 
-Hex
----
-Hexigon logos intended to be compatible with the [Hexagon sticker standard].
+<img src="png/toolforge-round-anvil.png" width="180" height="180"> <img src="png/toolforge-hex-anvil.png" width="156" height="180">
 
-<img src="png/toolforge-hex-anvil.png" width="156">
-<img src="png/toolforge-hex-cutout.png" width="156">
+Negative image of anvil
+-----------------------
 
-License
+<img src="png/toolforge-round-cutout.png" width="180" height="180"> <img src="png/toolforge-hex-cutout.png" width="156" height="180">
+
+
+Credits
 -------
 Copyright © 2017, [Bryan Davis].
 
