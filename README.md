@@ -21,8 +21,8 @@ Compact
 -------
 
 Tri-color anvil, hammer, and sparks for use in compact displays such as
-a favicon. Sizes >= 48x48 have been hand edited to simplify the resulting
-image.
+a favicon. Images 48x48 pixels and smaller have been hand edited to simplify
+the resulting image.
 
 ![180x171](png/toolforge-rgb-anvil.png)
 ![48x48](favicon/favicon.ico)
