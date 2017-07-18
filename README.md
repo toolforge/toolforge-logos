@@ -12,6 +12,8 @@ Positive image of anvil
 
 <img src="png/toolforge-round-anvil.png" width="180" height="180"> <img src="png/toolforge-hex-anvil.png" width="156" height="180">
 
+<img src="png/toolforge-round-anvil-rgb.png" width="180" height="180"> <img src="png/toolforge-hex-anvil-rgb.png" width="156" height="180">
+
 Negative image of anvil
 -----------------------
 
