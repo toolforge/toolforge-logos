@@ -3,7 +3,7 @@ Toolforge logos
 
 Proposed logo designs for Wikimedia's Toolforge platform as a service product.
 
-Hexagon versions intended to be compatible with the [Hexagon sticker
+Hexagon versions are intended to be compatible with the [Hexagon sticker
 standard]. These would not be used on-wiki, but would be printed as stickers
 because all the cool projects are using hex stickers for better tiling.
 
