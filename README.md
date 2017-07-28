@@ -10,17 +10,31 @@ because all the cool projects are using hex stickers for better tiling.
 Positive image of anvil
 -----------------------
 
-<img src="png/toolforge-round-anvil.png" width="180" height="180"> <img src="png/toolforge-hex-anvil.png" width="156" height="180">
+![round](png/toolforge-anvil-round.png)
+![hex](png/toolforge-anvil-hex.png)
 
 Positive image of tri-color anvil
 ---------------------------------
 
-<img src="png/toolforge-round-anvil-rgb.png" width="180" height="180"> <img src="png/toolforge-hex-anvil-rgb.png" width="156" height="180">
+![round](png/toolforge-rgb-anvil-round.png)
+![hex](png/toolforge-rgb-anvil-hex.png)
 
 Negative image of anvil
 -----------------------
 
-<img src="png/toolforge-round-cutout.png" width="180" height="180"> <img src="png/toolforge-hex-cutout.png" width="156" height="180">
+![round](png/toolforge-cutout-round.png)
+![hex](png/toolforge-cutout-hex.png)
+
+Tri-color sparks
+----------------
+
+Tri-color sparks with black/white. Still a nod to the RGB family of logos, but
+a clear sign that this project is different. Blue used is the [official blue] of
+the Foundation rather than the "web safe" blue of the community logos.
+
+![round](png/toolforge-rgb-sparks-round.png)
+![hex](png/toolforge-rgb-sparks-hex.png)
+![hex2](png/toolforge-rgb-sparks-inv-hex.png)
 
 Compact
 -------
@@ -29,11 +43,12 @@ Tri-color anvil, hammer, and sparks for use in compact displays such as
 a favicon. Images 48x48 pixels and smaller have been hand edited to simplify
 the resulting image.
 
-![180x171](png/toolforge-rgb-anvil.png)
+![180x135-color](png/toolforge-rgb-anvil.png)
 ![48x48](favicon/favicon.ico)
 ![32x32](favicon/favicon-32x32.png)
 ![16x16](favicon/favicon-16x16.png)
 
+![180x135-sparks](png/toolforge-rgb-sparks.png)
 
 Credits
 -------
@@ -58,3 +73,4 @@ Favicons and related content generated using [RealFaviconGenerator].
 [Bryan Davis]: https://github.com/bd808/
 [Creative Commons Attribution-ShareAlike 4.0 International License]: https://creativecommons.org/licenses/by-sa/4.0/
 [RealFaviconGenerator]: https://realfavicongenerator.net/
+[official blue]: https://meta.wikimedia.org/wiki/Brand#Using_the_Wikimedia_colors
